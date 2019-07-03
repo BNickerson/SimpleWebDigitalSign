@@ -14,7 +14,6 @@ Simple Open-Source Web Based Digital Signage
 ### Animations
 Here are the list of different transitions you can use for each slide:
 
-|                   |                    |                     |                      |
 | ----------------- | ------------------ | ------------------- | -------------------- |
 | `bounce`          | `flash`            | `pulse`             | `rubberBand`         |
 | `shake`           | `headShake`        | `swing`             | `tada`               |
