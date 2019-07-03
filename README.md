@@ -1,5 +1,5 @@
 # Digital Sign
-Simple Open-Source Web Based Digital Signage
+Simple Open-Source Web Based Digital Signage Client (Content Management coming soon)
 
 ### Features
 * Supports both images and video
