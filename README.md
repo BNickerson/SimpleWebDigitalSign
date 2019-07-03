@@ -12,7 +12,7 @@ Simple Open-Source Web Based Digital Signage
 :TODO:
 
 ### Transitions
-Here are the list of different transitions animations you can use for each slide:
+Here are the list of different transition animations you can use for each slide:
 
 | Transitions       |                    |                     |                      |
 | ----------------- | ------------------ | ------------------- | -------------------- |
