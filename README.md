@@ -1,2 +1,2 @@
-# Simple Web-Based Digital Sign
+# Digital Sign
 Simple Open-Source Web Based Digital Signage
