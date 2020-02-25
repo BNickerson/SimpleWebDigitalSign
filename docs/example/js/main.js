@@ -17,5 +17,6 @@ document.addEventListener('DOMContentLoaded', async function() {
     ]
 
     let sign = new Sign('digital-sign', {transition: 'rollIn', slides: slides})
+    let sign2 = new Sign('digital-sign2', {transition: 'rollIn', slides: slides})
     sign.start()
 })
